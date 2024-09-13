@@ -5,7 +5,6 @@ import viewer from './components/viewer.vue'
 </script>
 
 <template>
-  <h1>Hello, world!</h1>
   <viewer />
 </template>
 
